@@ -1,0 +1,15 @@
+img {
+    width: 300px;
+}
+p {
+    text-align: justify;
+    padding-top: 10px;
+}
+h3 {
+    padding-top: 10px;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
